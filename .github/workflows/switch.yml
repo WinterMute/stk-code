@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master
-      - feature/gh-actions-switch-cache
+      - test-switch
     tags:
       - '*'
   pull_request: {}
